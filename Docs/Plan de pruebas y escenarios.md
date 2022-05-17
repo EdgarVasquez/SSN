@@ -14,7 +14,7 @@
 <p>CR 5.1 the system must validate that the last part has this between 0001 and 9999 without hyphens</p>
 
 ## Test Plan
-<p> ***TC 1 A blank space is entered***</p>
+___<p> TC 1 A blank space is entered</p>___
 <p> system response "The number of characters must be 9 and separated by hyphens"</p>
 <p> ***TC 2 in the first part 4 digits were entered***</p>
 <p> system response "The first part must have 3 digits, it must be different from 000 and 666"</p>
