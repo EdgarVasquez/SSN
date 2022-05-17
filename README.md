@@ -4,5 +4,5 @@
 ##### Author: Edgar Alberto Vasquez Peña, 1098586
 
 ### Docs(Index)
-#### [Plan de pruebas](https://github.com/EdgarVasquez/SSN/blob/main/Plan%20de%20pruebas%20y%20escenarios.md)
-#### [Manual de usuarios](https://github.com/EdgarVasquez/SSN/blob/main/Manual%20de%20usuario.md)
+#### [Plan de pruebas](https://github.com/EdgarVasquez/SSN/blob/main/Docs/Plan%20de%20pruebas%20y%20escenarios.md)
+#### [Manual de usuarios](https://github.com/EdgarVasquez/SSN/blob/main/Docs/Manual%20de%20usuario.md)
