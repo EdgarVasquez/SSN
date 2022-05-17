@@ -1,10 +1,10 @@
 # Validate SSN Number
 ## Requirements
-#### R1. The system must request the entry of 9 digits
-#### R2. the SSN CODE should have divided into 3 parts separated by hyphens, the first of 3 digits, the second of 2 and the third of 4
-#### R3.  the first part should have not 000 or 666 or a number between 900 and 999
-#### R4.  the second part should have  between 01 and 99
-#### R5.  the last part should have between 0001 and 9999
+-R1. The system must request the entry of 9 digits
+-R2. the SSN CODE should have divided into 3 parts separated by hyphens, the first of 3 digits, the second of 2 and the third of 4
+-R3.  the first part should have not 000 or 666 or a number between 900 and 999
+-R4.  the second part should have  between 01 and 99
+-R5.  the last part should have between 0001 and 9999
 
 ## Criteria of acceptance
 #### CR 1.1 the system must validate that it has 9 digits without hyphens
