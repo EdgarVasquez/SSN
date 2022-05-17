@@ -16,11 +16,11 @@
 ## Test Plan
 ___<p> TC 1 A blank space is entered</p>___
 <p> system response "The number of characters must be 9 and separated by hyphens"</p>
-<p> ***TC 2 in the first part 4 digits were entered***</p>
+***<p> TC 2 in the first part 4 digits were entered</p>***
 <p> system response "The first part must have 3 digits, it must be different from 000 and 666"</p>
-<p> ***TC 3 in the second part 3 digits were entered***</p>
+ ***<p>TC 3 in the second part 3 digits were entered</p> ***
 <p> system response "The second part must have 2 digits and must be greater than 01 but less than 99"</p>
-<p> ***TC 4 in the last part were entered "0000"***</p>
+***<p> TC 4 in the last part were entered "0000"</p>***
 <p> system response "The third part must have 4 digits and must be greater than 0001 but less than 9999"</p>
 
 ### Positive Scenarios
